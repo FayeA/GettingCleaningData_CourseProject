@@ -104,14 +104,14 @@ Of the files contained in the zip file specified above, only the following files
 
 
 ## Data Transformation
-The following steps were taken in the processing and analysis of raw dataset:
-1. run_analysis.R was written to do the following:  
+
+run_analysis.R was written and run on the files specified above.  run_analysis.R does the following:
+
 >    1. Merge the training and the test sets to create one data set.  
 >    2. Extract only the measurements on the mean and standard deviation for each measurement.   
 >    3. Use descriptive activity names to name the activities in the data set  
 >    4. Appropriately label the data set with descriptive variable names.   
->    5. From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
+>    5. From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.  
 
-2. run_analysis.R was run on the files specified above to produce tidyData.csv.
 
 
