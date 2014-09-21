@@ -5,7 +5,7 @@
 This repository contains the files for the course project for "Getting and Cleaning Data" on Coursera.  
 
 ### Overview of the project:
-This project requires that the "Human Activity Recognition Using Smartphone Data Set" from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones be processed as per the following requirements:
+This project requires that the "Human Activity Recognition Using Smartphone Data Set" from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones be processed as per the following requirements _(taken from the course project instructions on Coursera)_:
 
 > You should create one R script called run_analysis.R that does the following  
 >    1. Merges the training and the test sets to create one data set.  
