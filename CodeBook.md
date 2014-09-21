@@ -1,7 +1,4 @@
----
-title: "CodeBook"
-output: html_document
----
+#Codebook
 
 This document describes the variables, the data, and the work performed to cleanup the raw data to produce tidyDataset.csv.
 
