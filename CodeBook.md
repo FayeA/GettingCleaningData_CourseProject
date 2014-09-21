@@ -5,7 +5,7 @@ This document describes the variables, the data, and the work performed to clean
 ## Variables
 
 *Subject - The subject ID the volunteers; Integer value ranging from 1 to 30. Units are not applicable for this variable.  
-*Activity - The activity performed by the volunteer. Units are not applicable for this variable.Could be one of the following:  
+*Activity - The activity performed by the volunteer. Units are not applicable for this variable. The value for this variable could be one of the following:  
     +WALKING  
     +WALKING_UPSTAIRS  
     +WALKING_DOWNSTAIRS  
