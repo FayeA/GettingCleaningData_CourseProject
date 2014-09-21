@@ -1,7 +1,4 @@
----
-title: "READ ME"
-output: html_document
----
+# README.md
 
 ## COURSE PROJECT for Getting and Cleaning Data
 
