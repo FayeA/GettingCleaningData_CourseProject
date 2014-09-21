@@ -4,14 +4,14 @@ This document describes the variables, the data, and the work performed to clean
 
 ## Variables
 
-*Subject - The subject ID the volunteers; Integer value ranging from 1 to 30. Units are not applicable for this variable.  
-*Activity - The activity performed by the volunteer. Units are not applicable for this variable. The value for this variable could be one of the following:  
-    +WALKING  
-    +WALKING_UPSTAIRS  
-    +WALKING_DOWNSTAIRS  
-    +SITTING  
-    +STANDING  
-    +LAYING  
+* Subject - The subject ID the volunteers; Integer value ranging from 1 to 30. Units are not applicable for this variable.  
+* Activity - The activity performed by the volunteer. Units are not applicable for this variable. The value for this variable could be one of the following:  
+    + WALKING  
+    + WALKING_UPSTAIRS  
+    + WALKING_DOWNSTAIRS  
+    + SITTING  
+    + STANDING  
+    + LAYING  
 
 The following variables describe the average value by activity, by patient, of the mean value (denoted by "mean()") and standard deviation (denoted by "std()") for each feature being measured.  The unit of measurement for these variables is Hertz (Hz). For details regarding these features, please see features_info.txt, which is part of   http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip  
   *tBodyAcc-mean()-X  
